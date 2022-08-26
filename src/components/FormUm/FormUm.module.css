@@ -1,0 +1,28 @@
+.divForm {
+    width: 500px;
+    height: 100%;
+    background-color: #00303d;
+    display: flex;
+    justify-content: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 25px;
+    background-color: #00303d;
+}
+
+.input {
+  height: 30px;
+  border-radius: 5px;
+  border: none;
+}
+
+.label {
+    font-size: 16px;
+    color: #f7f7f7;
+    margin-top: 10px;
+    margin-bottom: 2px;
+}
