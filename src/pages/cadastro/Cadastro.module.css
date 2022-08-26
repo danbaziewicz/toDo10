@@ -1,0 +1,13 @@
+/* .divCadastro {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: baseline;
+  height: 100%;
+  width: 100%;
+} */
+
+.divCadastro button {
+  height: 45px;
+  border-radius: 10px;
+}
