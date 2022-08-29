@@ -28,7 +28,7 @@ const Clientes = () => {
             );
           })
         ) : (
-          <h3>Nada foi encontrado</h3>
+          <h3 className={S.msgEnd}>Nada foi encontrado</h3>
         )}
       </div>
     </div>
