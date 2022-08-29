@@ -1,10 +1,10 @@
 .divHome {
-    width: 150vh;
-    display: flex;
-    justify-content: center;
-    color: #f7f7f7;
+  width: 150vh;
+  display: flex;
+  justify-content: center;
+  color: #f7f7f7;
 }
 
 .divHome h1 {
-    margin-top: 50px;
+  margin-top: 50px;
 }

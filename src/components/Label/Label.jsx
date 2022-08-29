@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
-const Label = ({texto, style}) => {
-  return (
-    <label className={style}>{texto}</label>
-  )
-}
+const Label = ({ texto, style }) => {
+  return <label className={style}>{texto}</label>;
+};
 
-export default Label
+export default Label;
